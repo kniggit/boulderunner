@@ -1,6 +1,7 @@
 # Boulder Runner
 
 ![Boulder Runner](https://i.imgur.com/CEnC4ha.gif)
+
 Boulder Runner serves as an easy to use API to query the City of Boulder for its hiking trails. Filtering of trails based on different features such as the number of barbecue grills or difficulty of the trails is possible. How to get started and examples are below.
 
 ## Getting Started
