@@ -106,7 +106,10 @@ Chose a web API implementation for the following reasons:
 ## Spring Boot
 I have not used Spring Boot prior to this project. Knowing that I want to utilize a Web API based solution, a lightweight web server had to be set up. It could be set up manually (time consuming, which is unacceptable). Seeing Spring Boot before in other projects, I knew it had a plethora of features that might solve my issue.
 
-Hooking Spring Boot into this allowed me to get a basic web server and endpoint up and running in under 1 hour. That was awesome! 
+Hooking Spring Boot into this allowed me to get a basic web server and endpoint up and running in under 1 hour. That was awesome!
+
+### README.md
+Not working on open source software much, creating and editing this README.md was *VERY* fun. I enjoy developing good documentation and learning to do it using the features available in the README.md was interesting!
 
 ## JSON
 Chose to convert the trail data from CSV to JSON for several reasons:
