@@ -134,7 +134,7 @@ public class BoulderRunnerController {
                 } else {
                     // No match, skip this trail
                     match = false;
-                    continue;
+                    break;
                 }
             }
             
