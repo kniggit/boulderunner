@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>boulder.trails.api</groupId>
-	<artifactId>BoulderTrails</artifactId>
+	<artifactId>BoulderRunner</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>BoulderTrails</name>
+	<name>BoulderRunner</name>
 	<description>API for accessing City of Boulder hiking trails</description>
 
 	<properties>
