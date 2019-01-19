@@ -36,12 +36,12 @@ mvn spring-boot:run
 ```
 or
 ```bash
-java -jar target/BoulderTrails-0.0.1-SNAPSHOT.jar
+java -jar target/BoulderRunner-0.0.1-SNAPSHOT.jar
 ```
 #### Windows
 To execute the Boulder Runner microservice in a Windows environment, double click on the following file:
 ```
-BoulderTrails-0.0.1-SNAPSHOT.jar
+BoulderRunner-0.0.1-SNAPSHOT.jar
 ```
 
 ## Running the tests
